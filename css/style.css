@@ -41,6 +41,13 @@ body {
 
 }
 
+.title:hover {
+    color: black;
+    letter-spacing: 2rem;
+    transition-duration: 1s;
+    transform: rotate(360deg);
+}
+
 .all-tasks {
     grid-area: lists;
 }
