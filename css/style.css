@@ -9,7 +9,7 @@
 *::before,
 *::after {
     font-family: inherit;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 
@@ -204,7 +204,8 @@ form {
     cursor: pointer;
     border: 2px solid currentColor;
     border-radius: 50%;
-    transform: scale(1);
+    /*checkbox visibility*/
+    transform: scale(0);
     transition: transform 300ms ease-in-out;
 }
 
@@ -226,7 +227,7 @@ form {
 
 
 .task label::after {
-    content: "";
+    
     position: absolute;
     left: 0;
     right: 0;
