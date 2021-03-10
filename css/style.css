@@ -14,12 +14,17 @@
 
 
 body {
+   background-image: url("/img/asd.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-size: ;
    margin: 0;
    font-family: 'Courier New', Courier, monospace;
    font-weight: 300;
    font-size: 1.5rem;
    background-color: var(--clr-primary);
-   color: var(--clr-light);
+   
 
    display: grid;
    grid:
@@ -81,7 +86,7 @@ form {
 }
 
 .btn.create {
-     background: var(--clr-primary);
+     background: none;
      font-size: 1.5rem;
      font-weight: 900;
      margin-right: 0.25em;
