@@ -7,7 +7,7 @@ still on the development
 
 # CONTRIBUTING
 
- feel free to contribute by adding new templates to this project
+ feel free to contribute by adding new templates to this project.
 
 
 
