@@ -10,10 +10,7 @@ still on the development...
 
  feel free to contribute by adding new templates to this project.
 
-
-
 # LICENSE
-
 
 MIT License
 
