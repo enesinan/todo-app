@@ -6,7 +6,6 @@ this is a todo-app,you can save your task and manage  it...
 # !!!
 still on the development
 
-
 # CONTRIBUTING
 
  feel free to contribute by adding new templates to this project.
